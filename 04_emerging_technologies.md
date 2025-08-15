@@ -56,3 +56,4 @@ City of Manila, Packetworx deployed IoT-enabled intelligent traffic management s
 
   - **Reference**:  
     _Source: Packetworx Inc. (n.d.). Smart Cities, IoT, and Packetworx: Transforming the Philippines into a modern nation [Press release]. EIN Presswire. Retrieved August 15, 2025, from https://www.wjtv.com/business/press-releases/ein-presswire/631686912/smart-cities-iot-and-packetworx-transforming-the-philippines-into-a-modern-nation_
+
